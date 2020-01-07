@@ -6,6 +6,7 @@ Steps:
 	1) Find an API
 		* Using AlphaVantage
 		* Check documentation here: https://www.alphavantage.co/documentation/
+		* More here: https://github.com/RomelTorres/alpha_vantage
 	2) Find relevant stocks
 		* Possible method of approach:
 			* Find five fastest growing stocks every day here:
