@@ -21,6 +21,8 @@ Resources:
 
 	1) Rob Carver, Phyton Trading Blog
 		*https://qoppac.blogspot.com/p/about-me.html
+	2) Doji Method:
+	https://www.investopedia.com/terms/d/doji.asp
 
 Strategies:
 
