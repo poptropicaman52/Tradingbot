@@ -21,3 +21,16 @@ Resources:
 
 	1) Rob Carver, Phyton Trading Blog
 		*https://qoppac.blogspot.com/p/about-me.html
+
+Strategies:
+
+	1) Put/Call (Safe) Strategy
+		* Finding historically safe stocks (e.g. Walmart, Coca-Cola), purchase stock on stock dip and sell
+after any drop in 5%
+		* Hold dividend-rich stocks (e.g. AT&T) and reinvest dividents into itself or safe stocks
+		
+		~PROS:
+		~CONS:
+
+		
+		
