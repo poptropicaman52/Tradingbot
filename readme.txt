@@ -25,7 +25,8 @@ Resources:
 	https://www.investopedia.com/terms/d/doji.asp
 	3) https://www.quantopian.com/home 
 		*"Quantopian provides free education, data, and tool so anyone can pursue quantitative finance"
-
+	4) Warren Buffet's "Stock"Cheat Sheet Checklist:
+		*https://www.reddit.com/r/investing/comments/bpriju/the_ultimate_investing_checklist/?utm_source=share&utm_medium=ios_app
 Strategies:
 
 	1) Put/Call (Safe) Strategy
