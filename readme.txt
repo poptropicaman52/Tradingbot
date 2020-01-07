@@ -29,7 +29,9 @@ Resources:
 		*https://www.reddit.com/r/investing/comments/bpriju/the_ultimate_investing_checklist/?utm_source=share&utm_medium=ios_app
 Strategies:
 
-	1) Put/Call (Safe) Strategy
+	1) 15+ Asset Management Strategies
+		*https://github.com/firmai/machine-learning-asset-management
+	2) Put/Call (Safe) Strategy
 		* Finding historically safe stocks (e.g. Walmart, Coca-Cola), purchase stock on stock dip and sell
 after any drop in 5%
 		* Hold dividend-rich stocks (e.g. AT&T) and reinvest dividents into itself or safe stocks
