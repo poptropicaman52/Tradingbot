@@ -1,4 +1,4 @@
-Trading Bot
+Trading Bot by Carlo Guzman & Ryan Borunda
 
 Goal: Create a profitable automated trading bot that tracks (desired?) stocks
 
@@ -7,8 +7,12 @@ Steps:
 		* Using AlphaVantage
 		* Check documentation here: https://www.alphavantage.co/documentation/
 	2) Find relevant stocks
-		* Using YahooFinance: https://finance.yahoo.com/gainers
-		* Selenium for webscraping, read moer here: https://dev.to/lewiskori/beginner-s-guide-to-web-scraping-with-python-s-selenium-3fl9
-	3) Find trading strategy
+		* Possible method of approach:
+			* Find five fastest growing stocks every day here:
+			https://finance.yahoo.com/gainers
+			* Web-scrape for those five stocks w/ selenium read more here: 				https://dev.to/lewiskori/beginner-s-guide-to-web-scraping-with-python-s-selenium-3fl9
+			* Call API on each of the five stocks every minute
+			* Track live price of stock
+			* Employ trading strategy, possible strategies below
 		* https://www.investopedia.com/articles/trading/06/daytradingretail.asp
 		* https://www.investopedia.com/articles/active-trading/090415/only-take-trade-if-it-passes-5step-test.asp
