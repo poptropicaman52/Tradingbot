@@ -17,3 +17,7 @@ Steps:
 			* Employ trading strategy, possible strategies below
 		* https://www.investopedia.com/articles/trading/06/daytradingretail.asp
 		* https://www.investopedia.com/articles/active-trading/090415/only-take-trade-if-it-passes-5step-test.asp
+Resources:
+
+	1) Rob Carver, Phyton Trading Blog
+		*https://qoppac.blogspot.com/p/about-me.html
