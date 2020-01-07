@@ -21,6 +21,8 @@ Resources:
 
 	1) Rob Carver, Phyton Trading Blog
 		*https://qoppac.blogspot.com/p/about-me.html
+	2) https://www.quantopian.com/home 
+		*"Quantopian provides free education, data, and tool so anyone can pursue quantitative finance"
 
 Strategies:
 
