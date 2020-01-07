@@ -2,3 +2,10 @@ Strategy Information by Carlo Guzman & Ryan Borunda
 
 Strategies + Methods:
 	*DOJI METHOD:
+		~Believed by technical analysts that all stock information
+is reflected in the price
+		~Popularized through candlestick pattern
+			-FOUR SETS OF DATA TO DEFINE SHAPE
+			-OPEN, HIGH, LOW, AND CLOSE
+	*SPINNING TOP METHOD:
+		
